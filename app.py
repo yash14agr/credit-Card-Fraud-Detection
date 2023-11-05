@@ -4,7 +4,7 @@
 import pickle
 import streamlit as st
 import pandas as pd
-import tensorflow as tf
+#import tensorflow as tf
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
